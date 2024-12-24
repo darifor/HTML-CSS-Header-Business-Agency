@@ -3,7 +3,7 @@
 [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)]()
 
 ## Descripción del proyecto
-<p>En este repositorio encontrarás el encabezado de "Archesky", una agencia de negocios especializada en el desarrollo de planes de negocio, financiación y marketing digital. Con más de una década de experiencia en el mercado, se han consolidado como un socio estratégico para empresas que buscan crecer y optimizar sus operaciones.</p>
+<p>En este repositorio encontrarás el encabezado de "Archesky", una agencia especializada en el desarrollo de planes de negocio, financiación y marketing digital. Con más de una década de experiencia en el mercado, "Archesky" se ha consolidado como un socio estratégico para empresas que buscan crecer y optimizar sus operaciones a nivel internacional.</p>
 <p>El 'header' cuenta con logotipo y menú de navegación. La imagen de la modelo y el titular que la acompaña conforman la imagen corporativa y resumen de manera contundente la misión de "Archesky": <b>SMART BUSINESS WITH SMART PEOPLE</b></p>
 
 ## Vista previa del diseño
