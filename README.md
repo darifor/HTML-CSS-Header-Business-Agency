@@ -7,7 +7,7 @@
 <p>El 'header' cuenta con logotipo y menú de navegación. La imagen de la modelo y el titular que la acompaña conforman la imagen corporativa y resumen de manera contundente la misión de "Archesky": <b>SMART BUSINESS WITH SMART PEOPLE</b></p>
 
 ## Vista previa del diseño
-  <p>En la siguiente imagen se aprecia un detalle del resultado obtenido:</p>
+<p>En la siguiente imagen se aprecia un detalle del resultado obtenido:</p>
 <img src="business-agency.png">
 
 ## Uso
